@@ -1,6 +1,6 @@
 ## Hi, I’m @mkdirer👋
 
-### I love Design, Technology, and 3D printing.👀 For now I am programming in C / C ++ and Python. I'm also interested in low level programming of microcontrollers: Stm32 and Atmel ATmega328. Currently studying IT. I'm a Student of AGH University of Science and Technology!!🌱 Open to help and cooperation 📫.  
+### I love Design, Technology, and 3D printing.👀 For now I am programming in C / C ++ and Python. I'm also interested in low level programming of microcontrollers: Stm32 and Atmel ATmega328. Currently studying IT at AGH University of Science and Technology!!🌱 Open to help and cooperation 📫.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
