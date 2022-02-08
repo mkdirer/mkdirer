@@ -15,7 +15,7 @@
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true&theme=radical)
+![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true&theme=radical)
 
 <!---
 mkdirer/mkdirer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
