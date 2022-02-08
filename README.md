@@ -17,12 +17,17 @@
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a> 
 <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a> 
-<a href="https://pl.reactjs.org/" target="_blank"><img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a> 
+<a href="https://pl.reactjs.org/" target="_blank"><img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 
  
 </p>
 
-![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true&theme=radical)
+![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=radical)
 
 <!---
 mkdirer/mkdirer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
