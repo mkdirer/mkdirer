@@ -1,11 +1,11 @@
 ## Hi, I’m @mkdirer👋
 
-### I love Design, Technology, and 3D printing.👀 For now I am programming in C / C ++ and Python. I'm also interested in low level programming of microcontrollers: Stm32 and Atmel ATmega328. Currently studying IT at AGH University of Science and Technology!!🌱 Open to help and cooperation 📫.  
+### I love Design, Technology, and 3D printing.👀 For now I am programming in C / C ++ and Python. I'm also interested in low level programming of microcontrollers: Stm32 and Atmel ATmega328. Currently studying IT. I'm a Student of AGH University of Science and Technology!!🌱 Open to help and cooperation 📫.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C5%82ukasz-wajda-0739b6230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18136457/mkdirer" target="blank"><img align="center" src="https://camo.githubusercontent.com/201ef83ce1a6cf71982a1af13e5c6276199b69bf52885b5058485130d1099fef/687474703a2f2f626c6f672e6772696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30392f737461636b6f766572666c6f772e706e67" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/18136457/mkdirer" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1393171?s=200&v=4" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,10 +24,9 @@
 <a href="https://nodejs.org/en/" target="_blank"><img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img alt="java" width="40" height="40" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img alt="matlab" width="40" height="40" src="https://gist.githubusercontent.com/shelling/636273/raw/ade12b0ea035136853882530178981cf29ea21aa/matlab.png" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="Terminal" width="40" height="40" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" /></a>
+
+ 
 </p>
 
-
 ![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=radical)
-
