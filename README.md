@@ -30,3 +30,7 @@
 </p>
 
 ![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=radical)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostatni5&langs_count=4&hide_title=true&hide_border=true" />
+</a>
