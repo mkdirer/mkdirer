@@ -2,6 +2,10 @@
 
 ### I love Design, Technology, and 3D printing.👀 For now I am programming in C / C ++ and Python. I'm also interested in low level programming of microcontrollers: Stm32 and Atmel ATmega328. Currently studying IT at AGH University of Science and Technology!!🌱 Open to help and cooperation 📫.  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdirer&label=Profile%20views&color=0e75b6&style=flat" alt="mkdirer" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkdirer&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="mkdirer" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C5%82ukasz-wajda-0739b6230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -29,9 +33,19 @@
  
 </p>
 
-![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=radical)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=radical" alt="mkdirer" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdirer&hide_title=false&hide_border=true&theme=radical&show_icons=true&locale=en&layout=compact" alt="mkdirer" /></p>
+
 <!--
-![mkdirer github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mkdirer&langs_count=4&hide_title=true&hide_border=true)
+![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=radical)
+
+![mkdirer github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mkdirer&hide_title=false&hide_border=true&theme=radical&show_icons=true&locale=en)
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vakme&show_icons=true&locale=en&layout=compact" alt="mkdirer" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vakme&show_icons=true&locale=en" alt="mkdirer" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostatni5&langs_count=4&hide_title=true&hide_border=true" />
