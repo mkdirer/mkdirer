@@ -35,7 +35,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=gotham&hide_border=true" alt="mkdirer" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdirer&hide_title=false&hide_border=true&theme=gotham&show_icons=true&locale=en&layout=compact" alt="mkdirer" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdirer&hide_title=false&hide_border=true&theme=gotham&show_icons=true&locale=en&layout=compact&langs_count=12" alt="mkdirer" /></p>
 
 <!--
 ![mkdirer github stats](https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=radical)
