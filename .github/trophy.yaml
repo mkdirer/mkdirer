@@ -1,12 +1,10 @@
-rank:
-  - SECRET
-  - SSS
-  - SS
-  - S
-  - AAA
-  - AA
-  - A
-  - B
-  - C
-  - D
-  - E
+trophies:
+  - title: "Rank 6"
+    rank: "RANK6"
+    description: "Custom rank 6"
+  - title: "Rank 7"
+    rank: "RANK7"
+    description: "Custom rank 7"
+  - title: "Rank 8"
+    rank: "RANK8"
+    description: "Custom rank 8"
