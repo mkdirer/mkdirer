@@ -1,6 +1,6 @@
 ## Hi, I’m @mkdirer👋
 
-### I love Design, Technology, and 3D printing.👀 For now I am programming in C / C ++ and Python. I'm also interested in low level programming of microcontrollers: Stm32 and Atmel ATmega328. Currently studying IT at AGH University of Science and Technology!!🌱 Open to help and cooperation 📫.  
+### I love Design, Technology, and 3D printing.👀 I'm also interested in low level programming of microcontrollers: Stm32 and Atmel ATmega328. Currently studying IT at AGH University of Science and Technology!!🌱 Open to help and cooperation 📫.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdirer&label=Profile%20views&color=0e75b6&style=flat" alt="mkdirer" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkdirer&rank=SECRET,SSS,SS,S,AAA,AA,A,RANK6,RANK7,RANK8" alt="mkdirer" /></a> </p>
@@ -35,6 +35,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mkdirer&show_icons=true&theme=gotham&hide_border=true" alt="mkdirer" /></p>
 <!--
+For now I am programming in C / C ++ and Python. 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdirer&hide_title=false&hide_border=true&theme=gotham&show_icons=true&locale=en&layout=compact&langs_count=12" alt="mkdirer" /></p>
 
 # 💻 Tech Stack:
