@@ -1,6 +1,11 @@
 ## Hi, I’m @mkdirer👋
 
-### I'm a software engineer👨‍💻, and my strong commitment lies in delivering efficient solutions implemented with clean and maintainable code🌱. I've gained experience with a variety of programming languages💻 and am proficient in utilizing agile methodologies in software development🚀, along with being well-versed in DevOps principles🌐. Open to help and cooperation 📫.
+### Currently Software Engineer 👨‍💻 
+### Committed to Delivering Efficient Solutions with Clean and Maintainable Code 🌱
+### Proficient in Various Programming Languages 💻
+### Agile Methodologies Enthusiast 🚀
+### Well-Versed in DevOps Principles 🌐
+### Open to help and cooperation 📫
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdirer&label=Profile%20views&color=0e75b6&style=flat" alt="mkdirer" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkdirer&rank=SECRET,SSS,SS,S,AAA,AA,A,RANK6,RANK7,RANK8" alt="mkdirer" /></a> </p>
