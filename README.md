@@ -1,4 +1,4 @@
-## Hi, I’m @mkdirer👋
+## Hi, I’m @mkdirer👋 💻 👨‍💻 </> 🖥️
 
 ### Currently Software Engineer 👨‍💻 
 ### Committed to Delivering Efficient Solutions with Clean and Maintainable Code 🌱
