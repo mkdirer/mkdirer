@@ -1,6 +1,6 @@
 ## Hi, I’m @mkdirer👋 💻 👨‍💻 </> 🖥️
 
-### Currently Software Engineer 👨‍💻 
+### Currently Software Engineer 👨‍💻
 ### Committed to Delivering Efficient Solutions with Clean and Maintainable Code 🌱
 ### Proficient in Various Programming Languages 💻
 ### Agile Methodologies Enthusiast 🚀
