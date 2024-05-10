@@ -4,7 +4,7 @@
 ### Committed to Delivering Efficient Solutions with Clean and Maintainable Code 🌱
 ### Proficient in Various Programming Languages 💻
 ### Agile Methodologies Enthusiast 🚀
-### Well-Versed in DevOps Principles 🌐
+### Well-Versed in DevOps Principles and Cloud Solutions🌐
 ### Open to help and cooperation 📫
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdirer&label=Profile%20views&color=0e75b6&style=flat" alt="mkdirer" /> </p>
@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/lukewa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/wajdalukasz55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/18136457/mkdirer" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1393171?s=200&v=4" height="40" width="40" /></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/6bc94bdc-34a5-41a3-bb75-d1bac221efcb" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
