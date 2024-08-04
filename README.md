@@ -5,6 +5,7 @@
 ### Proficient in Various Programming Languages 💻
 ### Agile Methodologies Enthusiast 🚀
 ### Well-Versed in DevOps Principles and Cloud Solutions🌐
+### Passionate about leveraging AI innovations to solve real-world problems :) 💡
 ### Open to help and cooperation 📫
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdirer&label=Profile%20views&color=0e75b6&style=flat" alt="mkdirer" /> </p>
