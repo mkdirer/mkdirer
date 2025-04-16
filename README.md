@@ -49,7 +49,7 @@ JUnit · Postman · Cypress · Jest · Mocha · Selenium · TDD
 - Automated CI/CD pipelines with **Jenkins**, **Docker**, and **Kubernetes**, focusing on uptime and system health.
 - Performed daily bugfixing and supported production through observability dashboards and alerting mechanisms.
 
-#### 🏦 Banking & ETL Platform @ ABB
+#### 🏦 ETL Platform @ ABB
 - Led backend development for **file validation and fraud detection** microservices in internal banking systems.
 - Used **Apache Kafka** for real-time stream processing and **event-driven architecture**.
 - Optimized database performance in **PostgreSQL** and implemented **event sourcing** for traceability and state restoration.
